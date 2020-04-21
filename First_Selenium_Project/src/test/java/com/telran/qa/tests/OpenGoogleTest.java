@@ -44,8 +44,9 @@ public void testOpenGoogle(){
     }
 
     @Test
-    public void testOpenProfile() {
+    public void testOpenProfile() throws InterruptedException {
         click(By.id("gb_70"));
+        Thread.sleep(3000);
 
     }
 
