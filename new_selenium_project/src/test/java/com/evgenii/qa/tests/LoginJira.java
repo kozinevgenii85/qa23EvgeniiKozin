@@ -3,6 +3,7 @@ package com.evgenii.qa.tests;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -21,18 +22,33 @@ public class LoginJira {
 
    @Test
     public void signInJira() throws InterruptedException {
-       wd.findElement(By.id("login-form-username")).click();
-       wd.findElement(By.id("login-form-username")).clear();
-       wd.findElement(By.id("login-form-username")).sendKeys("kozinevgenii85");
-       wd.findElement(By.id("login-form-password")).click();
-       wd.findElement(By.id("login-form-password")).clear();
-       wd.findElement(By.id("login-form-password")).sendKeys("Stekla136");
-       wd.findElement(By.id("login")).click();
+       type(By.id("login-form-username"), "kozinevgenii85");
+       type(By.id("login-form-password"), "Stekla136");
+       click(By.id("login"));
        Thread.sleep(3000);
+
+
+//       String errorMessage = wd.findElement(By.id("usernameerror")).getText();
+//       Assert.assertEquals(errorMessage, "Sorry, your username and password are incorrect - please try again.");
+       Assert.assertFalse(isElementPresent(By.id("usernameerror")));
 
 
 
    }
+
+    private void type(By locator, String text) {
+        click(locator);
+        wd.findElement(locator).clear();
+        wd.findElement(locator).sendKeys(text);
+    }
+
+    private void click(By user) {
+        wd.findElement(user).click();
+    }
+
+    public  boolean isElementPresent(By locator){
+       return wd.findElements(locator).size()>0;
+    }
 
    @AfterMethod
     public void tearDown(){
