@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d0ee44-03fc-47b1-a527-034cb4b66462" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/TestCssEndxPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/new_selenium_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/new_selenium_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/LoginJira.java" beforeDir="false" afterPath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/LoginJira.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +53,9 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
@@ -68,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginJira">
+  <component name="RunManager" selected="TestNG.TestCssEndxPath.testSearchXPath">
     <configuration name="LoginJira" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="new_selenium_project.test" />
       <extension name="coverage">
@@ -104,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="new_selenium_project.test" />
+    <configuration name="TestCssEndxPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Evgenii_Kozin.new_selenium_project.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.evgenii.qa.tests.*" />
@@ -113,7 +117,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.OpenGoogle" />
+      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.TestCssEndxPath" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -121,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenGoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="new_selenium_project.test" />
+    <configuration name="TestCssEndxPath.testSearchCss" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Evgenii_Kozin.new_selenium_project.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.evgenii.qa.tests.*" />
@@ -130,16 +134,17 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.OpenGoogleTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.TestCssEndxPath" />
+      <option name="METHOD_NAME" value="testSearchCss" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenGoogle.testOpen" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="new_selenium_project.test" />
+    <configuration name="TestCssEndxPath.testSearchXPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Evgenii_Kozin.new_selenium_project.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.evgenii.qa.tests.*" />
@@ -147,8 +152,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.OpenGoogle" />
-      <option name="METHOD_NAME" value="testOpen" />
+      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.TestCssEndxPath" />
+      <option name="METHOD_NAME" value="testSearchXPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -158,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestCssEndxPath.testSearchXPath" />
+        <item itemvalue="TestNG.TestCssEndxPath.testSearchCss" />
+        <item itemvalue="TestNG.TestCssEndxPath" />
         <item itemvalue="TestNG.LoginJira" />
         <item itemvalue="TestNG.LoginJira.signInJira" />
-        <item itemvalue="TestNG.OpenGoogle" />
-        <item itemvalue="TestNG.OpenGoogle.testOpen" />
-        <item itemvalue="TestNG.OpenGoogleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +189,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
