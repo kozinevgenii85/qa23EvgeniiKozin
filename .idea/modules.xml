@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Evgenii_Kozin.new_selenium_project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Evgenii_Kozin.new_selenium_project.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Evgenii_Kozin.new_selenium_project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Evgenii_Kozin.new_selenium_project.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/new_selenium_project.iml" filepath="$PROJECT_DIR$/.idea/modules/new_selenium_project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/new_selenium_project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/new_selenium_project.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/new_selenium_project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/new_selenium_project.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.iml" filepath="$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.test.iml" />
     </modules>
   </component>
 </project>

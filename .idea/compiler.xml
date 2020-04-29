@@ -2,10 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Evgenii_Kozin.new_selenium_project.main" target="1.8" />
-      <module name="Evgenii_Kozin.new_selenium_project.test" target="1.8" />
-      <module name="new_selenium_project.main" target="1.8" />
-      <module name="new_selenium_project.test" target="1.8" />
+      <module name="Trello_Selenium_Web.main" target="1.8" />
+      <module name="Trello_Selenium_Web.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

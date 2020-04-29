@@ -1,13 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d0ee44-03fc-47b1-a527-034cb4b66462" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/TestCssEndxPath.java" afterDir="false" />
+    <list default="true" id="ac800bb0-e681-4cc7-b3a8-9a7111f5ccb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Trello_Selenium_Web.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/evgenii/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/evgenii/tests/TrelloBoardCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/evgenii/tests/TrelloTeamCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/src/test/java/com/qa/trello/BoardCreationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/src/test/java/com/qa/trello/TeamCreationsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web-tests/src/test/java/com/qa/trello/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/new_selenium_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/new_selenium_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Evgenii_Kozin.new_selenium_project.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Evgenii_Kozin.new_selenium_project.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/new_selenium_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/new_selenium_project.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/new_selenium_project.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/build/classes/java/test/com/telran/qa/tests/OpenGoogleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/out/test/classes/com/telran/qa/tests/OpenGoogleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Selenium_Project/src/test/java/com/telran/qa/tests/OpenGoogleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/build/classes/java/test/com/evgenii/qa/tests/OpenGoogleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/out/test/classes/META-INF/new_selenium_project.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/out/test/classes/com/evgenii/qa/tests/LoginJira.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/out/test/classes/com/evgenii/qa/tests/OpenGoogleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/out/test/classes/com/evgenii/qa/tests/OpenMicrosoft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/out/test/classes/com/evgenii/qa/tests/TestCssEndxPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/LoginJira.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/OpenGoogleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/OpenMicrosoft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_selenium_project/src/test/java/com/evgenii/qa/tests/TestCssEndxPath.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,16 +71,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/new_selenium_project">
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$/new_selenium_project">
-          <activation />
-        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -45,20 +97,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1atMuyt7YV18HgxXWMkAVM4jCaB" />
+  <component name="ProjectId" id="1b8pJlnv7N8VoVqbJdCHzdiOFwm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="project.structure.side.proportion" value="0.33563218" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,17 +123,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCssEndxPath.testSearchXPath">
-    <configuration name="LoginJira" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="new_selenium_project.test" />
+  <component name="RunManager" selected="TestNG.TrelloTeamCreation.testCreationTeam">
+    <configuration name="TrelloBoardCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Trello_Selenium_Web.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evgenii.qa.tests.*" />
+          <option name="PATTERN" value="com.evgenii.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.LoginJira" />
+      <option name="PACKAGE_NAME" value="com.evgenii.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.evgenii.tests.TrelloBoardCreation" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -90,17 +141,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginJira.signInJira" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="new_selenium_project.test" />
+    <configuration name="TrelloBoardCreation.testBoardCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Trello_Selenium_Web.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evgenii.qa.tests.*" />
+          <option name="PATTERN" value="com.evgenii.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.LoginJira" />
-      <option name="METHOD_NAME" value="signInJira" />
+      <option name="PACKAGE_NAME" value="com.evgenii.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.evgenii.tests.TrelloBoardCreation" />
+      <option name="METHOD_NAME" value="testBoardCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -108,16 +159,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCssEndxPath" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Evgenii_Kozin.new_selenium_project.test" />
+    <configuration name="TrelloTeamCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Trello_Selenium_Web.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evgenii.qa.tests.*" />
+          <option name="PATTERN" value="com.evgenii.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.TestCssEndxPath" />
+      <option name="PACKAGE_NAME" value="com.evgenii.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.evgenii.tests.TrelloTeamCreation" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -125,35 +176,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCssEndxPath.testSearchCss" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Evgenii_Kozin.new_selenium_project.test" />
+    <configuration name="TrelloTeamCreation.testCreationTeam" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Trello_Selenium_Web.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.evgenii.qa.tests.*" />
+          <option name="PATTERN" value="com.evgenii.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.TestCssEndxPath" />
-      <option name="METHOD_NAME" value="testSearchCss" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCssEndxPath.testSearchXPath" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Evgenii_Kozin.new_selenium_project.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.evgenii.qa.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.evgenii.qa.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.evgenii.qa.tests.TestCssEndxPath" />
-      <option name="METHOD_NAME" value="testSearchXPath" />
+      <option name="PACKAGE_NAME" value="com.evgenii.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.evgenii.tests.TrelloTeamCreation" />
+      <option name="METHOD_NAME" value="testCreationTeam" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,11 +196,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestCssEndxPath.testSearchXPath" />
-        <item itemvalue="TestNG.TestCssEndxPath.testSearchCss" />
-        <item itemvalue="TestNG.TestCssEndxPath" />
-        <item itemvalue="TestNG.LoginJira" />
-        <item itemvalue="TestNG.LoginJira.signInJira" />
+        <item itemvalue="TestNG.TrelloTeamCreation.testCreationTeam" />
+        <item itemvalue="TestNG.TrelloTeamCreation" />
+        <item itemvalue="TestNG.TrelloBoardCreation" />
+        <item itemvalue="TestNG.TrelloBoardCreation.testBoardCreation" />
       </list>
     </recent_temporary>
   </component>
@@ -176,11 +208,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81d0ee44-03fc-47b1-a527-034cb4b66462" name="Default Changelist" comment="" />
-      <created>1587550662857</created>
+      <changelist id="ac800bb0-e681-4cc7-b3a8-9a7111f5ccb1" name="Default Changelist" comment="" />
+      <created>1588023506098</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587550662857</updated>
+      <updated>1588023506098</updated>
     </task>
     <servers />
   </component>
@@ -196,5 +228,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
